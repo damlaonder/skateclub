@@ -4,3 +4,5 @@ I've been a part of a climbing community in Long Island City in Queens, NY for a
 
 He mentioned a couple times that it is hard to share the information about what is going on with the club because everyone uses a different platform. So I thought it would be cool to make a website for him that has all the information for easy access. At the end of the day, my goal was to create/design a website where it is easy for people to learn how to join Skate Club. 
 
+Check out what I have designed so far: https://damlaonder.github.io/skateclub/
+
